@@ -41,7 +41,7 @@ syn keyword clipsEnvironment      get-dynamic-constraint-checking get-static-con
 syn keyword clipsEnvironment      set-auto-float-dividend set-dynamic-constraint-checking set-static-constraint-checking system
 syn keyword clipsFact             assert assert-string dependencies dependents duplicate fact-existp fact-index 
 syn keyword clipsFact             fact-relation facts fact-slot-names fact-slot-value get-deffacts-list get-fact-duplication 
-syn keyword clipsFact             get-fact-list list-deffacts load-facts modify ppdeffacts ppfact retract save-facts 
+syn keyword clipsFact             get-fact-list list-deffacts load-facts modify ppdeffacts println ppfact retract save-facts 
 syn keyword clipsFact             set-fact-duplication str-assert undeffacts
 syn keyword clipsFocus            clear-focus-stack focus get-focus get-focus-stack list-focus-stack pop-focus
 syn keyword clipsFunction         get-deffunction-list list-deffunctions ppdeffunction undeffunction
