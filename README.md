@@ -8,7 +8,7 @@ Syntax highlighting of clips files for vim and neovim.
 
 ```lua
 {
-    "Warbacon/vim-clips",
+    "warbacon/vim-clips",
     ft = "clips"
 }
 ```
@@ -16,5 +16,5 @@ Syntax highlighting of clips files for vim and neovim.
 ### vim-plug
 
 ```vim
-Plug 'Warbacon/vim-clips'
+Plug 'warbacon/vim-clips'
 ```
